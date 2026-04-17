@@ -5,12 +5,12 @@
   "main": "form.js",
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "npx vitest run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jsdom": "^29.0.2",
     "vitest": "^4.1.4"
   }
